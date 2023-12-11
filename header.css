@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    margin: 15px auto;
+  display: block;
+  width: 120px;
+  border: 8px solid #5f0202;
+  border-radius: 50%;
+}
+.bg{
+    background-image: url(image/bghack1.avif);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 225px;
+    color: aliceblue;
+    word-spacing: 1rem;
+    /* word-break: break-all; */
+    font-weight: 600;
+
+
+}
